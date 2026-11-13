@@ -87,7 +87,7 @@ That runs the whole pipeline on the bundled sample and writes results to `output
 ### Read these (in `docs/`)
 
 1. **`ml-core-foundation-framework.md`** — the first-principles map of ML as a whole system. The backbone of the live sessions.
-2. **`ml-intern-dataset-and-lane-guide.md`** — the first-principles map of ML as a whole system. The backbone of the live sessions.
+2. **`ml-intern-dataset-and-lane-guide.md`** — Data safety, the lanes, and the capstone workflow. Read in Week 1–2.
 3. **`intern-free-tooling-guide.md`** — The zero-budget tool stack: Python, Colab, free AI assistants. You never need to pay for anything.
 4. **`data-dictionary.md`** — All 44 columns: meaning, scale, gotchas. Keep open while you work.
 
